@@ -2,7 +2,9 @@
 
 ## 📘 Overview
 
-Kojo is a construction procurement and materials management platform built to connect Field, Procurement, Warehouse, Accounting, Operations, Prefab, and Suppliers into a centralized operational workflow.
+Kojo is a construction procurement and materials management platform built to connect: 
+
+Field, Procurement, Warehouse, Accounting, Operations, Prefab, & Suppliers into a centralized operational workflow.
 
 The platform supports:
 
@@ -16,7 +18,7 @@ The platform supports:
 * Suppliers & distributors
 * Executive leadership
 
-with emphasis placed on:
+with emphasis on:
 
 * procurement efficiency
 * operational visibility
@@ -28,15 +30,9 @@ with emphasis placed on:
 * automation
 * scalability
 
-The deeper I explored the platform, the more Kojo felt less like:
+> Kojo is non-invasive connective operational infrastructure.
 
-> procurement software
-
-& more like:
-
-> connective operational infrastructure for construction companies.
-
-A recurring theme throughout the platform is reducing fragmentation without forcing contractors to abandon systems they already depend on.
+Kojo connects systems contractors already use instead of forcing them to start over.
 
 ---
 
@@ -44,7 +40,7 @@ A recurring theme throughout the platform is reducing fragmentation without forc
 
 ## Centralized Procurement & Operations Layer
 
-Kojo positions itself as a centralized operational system connecting:
+Kojo centralizes:
 
 * procurement
 * field teams
@@ -67,11 +63,11 @@ Construction companies already operate across:
 * paper requests
 * fragmented workflows
 
-Replacing all of those systems outright would create massive operational resistance.
+Replacing all of those systems would create operational resistance.
 
-Instead, Kojo integrates into existing workflows while centralizing visibility, communication, and procurement operations.
+Instead, Kojo integrates into existing workflows & centralizes.
 
-The platform emphasizes:
+The platform handles:
 
 * ERP integrations
 * supplier integrations
@@ -82,13 +78,13 @@ The platform emphasizes:
 * workflow standardization
 * operational scalability
 
-The deeper I explored the platform, the more Kojo felt like it was connecting every moving part involved in getting materials where they need to go.
+There are many moving parts & Kojo streamlines this process.
 
 ---
 
 ## Integration-First Strategy
 
-One of Kojo’s strongest positioning advantages is working with systems contractors already use.
+Kojo works with systems contractors already use.
 
 Integrations include:
 
@@ -104,7 +100,7 @@ Integrations include:
 * Microsoft tools
 * supplier ERP systems
 
-This lowers operational resistance significantly because construction companies don’t want:
+This lowers operational resistance significantly & construction companies don’t want:
 
 * downtime
 * workflow disruption
@@ -112,56 +108,47 @@ This lowers operational resistance significantly because construction companies 
 * disconnected systems
 * implementation headaches
 
-The positioning feels less:
+Less:
 
 > “replace your stack”
 
 & more:
 
-> “connect and optimize your existing operation.”
+> “connect & optimize your existing operation.”
 
-That creates a much easier operational conversation.
+That creates a much easier adoption conversation.
 
 ---
 
-## Workflow Orchestration Instead of Point Solutions
+## Workflow Coordination Instead of Point Solutions
 
-Kojo doesn’t appear to solve just one isolated problem.
+Kojo doesn’t solve one isolated problem.
 
 The platform connects:
+- planning
+- sourcing
+- purchasing
+- requesting
+- receiving
+- invoice matching
+- payments
 
-* planning
-* sourcing
-* purchasing
-* requesting
-* receiving
-* invoice matching
-* payments
+while supporting:
+- warehouse management
+- prefab coordination
+- supplier collaboration
+- field ordering
+- tool tracking
 
-into one connected workflow.
-
-The platform also extends into:
-
-* warehouse management
-* prefab coordination
-* tool tracking
-* supplier collaboration
-* field ordering
-* inventory visibility
-* procurement analytics
-* AI-powered AP workflows
-
-The more I explored it, the more the platform felt designed around operational coordination instead of isolated transactions.
+Operational coordination instead of isolated transactions.
 
 ---
 
 ## Construction-Centric Design
 
-A recurring theme throughout the platform is:
+> Kojo is clearly built for construction.
 
-> “built for construction.”
-
-The company repeatedly emphasizes:
+Leaning into:
 
 * construction expertise
 * field usability
@@ -171,7 +158,7 @@ The company repeatedly emphasizes:
 * supplier coordination
 * mobile workflows
 
-This matters because construction environments often struggle with:
+To provide solutions for:
 
 * fragmented communication
 * operational delays
@@ -180,7 +167,7 @@ This matters because construction environments often struggle with:
 * disconnected systems
 * adoption resistance
 
-Kojo appears intentionally designed around reducing friction in environments where operational speed and timing are critical.
+This reduces operational delays where operational speed & timing = Reputation.
 
 ---
 
@@ -188,27 +175,29 @@ Kojo appears intentionally designed around reducing friction in environments whe
 
 ## Ideal Customer Profile (ICP)
 
-Commercial construction companies managing:
+Companies managing:
 
-* material procurement
-* warehouse operations
-* field requests
-* accounting workflows
-* supplier coordination
-* inventory management
-* prefab operations
-* multi-project purchasing
+- material procurement
+- warehouse operations
+- field requests
+- accounting workflows
+- supplier coordination
+- inventory management
+- prefab operations
+- multi-project purchasing
 
-Especially organizations focused on:
+Built for complex trades who care about material timing, coordination, inventory visibility, & supplier communication.
 
-* operational efficiency
-* scaling procurement
-* reducing material waste
-* cost visibility
-* supply chain reliability
-* margin protection
-* workflow standardization
-* cross-team coordination
+Trades examples include:
+
+- Electrical
+- Mechanical
+- Roofing
+- Concrete
+- Drywall
+- Flooring
+
+From there, I see many entry points for conversation.
 
 ---
 
@@ -226,7 +215,7 @@ Focused on:
 * reducing manual work
 * procurement scalability
 
-Likely one of the strongest operational advocates.
+One of the strongest internal advocates.
 
 ---
 
@@ -242,7 +231,7 @@ Focused on:
 * reduced back-and-forth communication
 * accountability
 
-Field teams likely become strong advocates when the platform reduces friction directly in daily workflows.
+Field teams become strong advocates when they see the platform firsthand onsite.
 
 ---
 
@@ -273,7 +262,7 @@ Focused on:
 * financial visibility
 * rebate tracking
 
-Kojo’s AI-powered AP workflows likely create strong value conversations here.
+Kojo’s AI-powered AP workflows create strong value conversations here.
 
 ---
 
@@ -328,15 +317,15 @@ Focused on:
 * reducing back-and-forth communication
 * faster payment cycles
 
-Interesting because Kojo appears to create value on both sides of the procurement relationship.
+Kojo creates value on both sides of the procurement relationship.
 
 ---
 
 # 🧠 Buying Motion Observation
 
-One thing that stood out quickly while researching Kojo was how naturally the platform creates multiple internal advocates before reaching a final decision-maker.
+Kojo creates multiple internal advocates before reaching a final decision maker.
 
-Different stakeholders see completely different value:
+Different stakeholders, different benefits:
 
 * Procurement sees efficiency
 * Field teams see faster delivery visibility
@@ -346,16 +335,16 @@ Different stakeholders see completely different value:
 * Finance sees margin protection
 * Suppliers see faster coordination
 
-This creates opportunities for:
+Opening the door:
 
 * multi-threaded outreach
 * internal momentum
 * cross-functional advocacy
 * broader organizational buy-in
 
-Going directly to a decision-maker in construction may not always be the most effective route.
+B/c going directly to a decision-maker in construction may not always be the easiest or effective route.
 
-The platform naturally lends itself to gaining advocates throughout operations first, allowing momentum to build internally before leadership conversations even occur.
+The platform naturally gains advocates throughout operations first, allowing momentum to build internally before leadership conversations.
 
 ---
 
@@ -375,7 +364,7 @@ Kojo connects the full procurement lifecycle:
 * invoice matching
 * payments
 
-Creating operational visibility across teams.
+Giving teams visibility across the entire procurement process.
 
 ---
 
@@ -389,13 +378,39 @@ The platform integrates deeply with:
 * project management tools
 * warehouse workflows
 
-This lowers resistance because contractors don’t need to abandon systems they already depend on.
+This lowers resistance & contractors don’t need to abandon systems they already depend on.
+
+---
+
+### Security & Enterprise Trust
+
+Kojo takes enterprise security & operational trust seriously.
+
+The company emphasizes:
+- SOC 2 compliance
+- encrypted data transmission & storage
+- secure development practices
+- AWS cloud infrastructure
+- customer isolation through multi-tenant trust zones
+- role-based access protections
+- ongoing security training
+
+b/c construction companies are not ONLY managing material requests through Kojo.
+
+The platform connects operational, financial, supplier, & accounting:
+- invoice accuracy
+- payment data
+- procurement visibility
+- supplier coordination
+- operational records
+
+all become business-critical.
 
 ---
 
 ### Mobile Field Enablement
 
-The field experience appears extremely important.
+The field experience is a major part of the platform.
 
 Field teams can:
 
@@ -416,11 +431,13 @@ This reduces:
 * confusion
 * operational friction
 
+Running around may feel busy, but it's downtime for a business.
+
 ---
 
 ### AI-Powered Accounting Automation
 
-Kojo’s AP functionality creates strong operational value through:
+Kojo’s AP functionality creates operational value through:
 
 * automated invoice matching
 * error detection
@@ -428,9 +445,7 @@ Kojo’s AP functionality creates strong operational value through:
 * reduced manual entry
 * financial visibility
 
-The positioning feels practical instead of:
-
-> “AI for the sake of AI.”
+Most of all, it feels practical.
 
 ---
 
@@ -446,26 +461,28 @@ The supplier integrations:
 * reduce manual coordination
 * accelerate payment processes
 
-This creates stronger network effects across the construction ecosystem.
+This creates stronger network where everybody wins.
 
 ---
 
 ### Construction-Specific Expertise
 
-The onboarding, training, webinars, advocacy groups, & support structure repeatedly emphasize:
+The onboarding & support structure speak to:
 
 * construction expertise
 * operational partnership
 * change management
 * workflow adoption
 
-This matters because construction tech adoption often struggles with:
+Important to addressing:
 
 * resistance to change
 * fragmented operations
 * operational disruption concerns
 
-Kojo appears highly aware of that challenge.
+Kojo directly addresses this through offering vitrual & onsite onboarding.
+
+Not to mention webinars & a ton of resources on their site. 
 
 ---
 
@@ -492,6 +509,8 @@ The willingness to:
 
 creates stronger long-term adoption potential.
 
+It's nice to witness a company focused on the growth of their clients.
+
 ---
 
 # ⚠️ Weaknesses
@@ -509,13 +528,11 @@ The platform touches:
 * finance
 * prefab
 
-Meaning implementations likely require significant organizational coordination.
+Usually would require significant organizational coordination.
 
 ---
 
 ### Adoption Resistance in Construction
-
-Construction has historically been slower to adopt new technology.
 
 Resistance may come from:
 
@@ -525,13 +542,13 @@ Resistance may come from:
 * implementation fear
 * operational disruption concerns
 
-Kojo appears very aware of this challenge.
+& Kojo is very aware of this challenge.
 
 ---
 
 ### Operational Dependence
 
-As workflows centralize into Kojo, customers may become increasingly dependent on:
+Partners may depend on:
 
 * uptime
 * integrations
@@ -543,7 +560,7 @@ As workflows centralize into Kojo, customers may become increasingly dependent o
 
 ### Long Enterprise Sales Cycles
 
-Construction purchasing decisions likely involve:
+Purchasing decisions involve:
 
 * operations leadership
 * procurement
@@ -573,14 +590,14 @@ Construction still contains significant:
 * fragmented communication
 * disconnected systems
 
-Kojo’s AI positioning around:
+Kojo’s AI focus on:
 
 * invoice matching
 * AP automation
 * sourcing
 * procurement intelligence
 
-creates strong expansion opportunities.
+creates room needed for growth.
 
 ---
 
@@ -588,7 +605,7 @@ creates strong expansion opportunities.
 
 Material shortages, tariffs, delays, & price volatility create massive operational pressure.
 
-Kojo directly positions itself around:
+Kojo focuses heavily on:
 
 * visibility
 * procurement optimization
@@ -596,15 +613,17 @@ Kojo directly positions itself around:
 * supplier coordination
 * operational speed
 
-That positioning becomes even more valuable during supply chain instability.
+even more valuable during supply chain instability.
+
+If you tried to buy new construction during 2020, need I say more?
+
+I'm sorry for bringing that up (I feel you).
 
 ---
 
 ### Construction Digital Transformation
 
-Construction remains heavily underserved technologically compared to many industries.
-
-Kojo appears positioned to modernize:
+Kojo modernizes:
 
 * procurement
 * communication
@@ -613,13 +632,13 @@ Kojo appears positioned to modernize:
 * supplier collaboration
 * project visibility
 
-without forcing companies to rebuild everything from scratch.
+without forcing companies to rebuild from scratch.
 
 ---
 
 ### Multi-Team Operational Visibility
 
-The platform creates centralized operational insight across:
+Centralized Operations w/ Visibility:
 
 * field operations
 * procurement
@@ -628,13 +647,13 @@ The platform creates centralized operational insight across:
 * suppliers
 * leadership
 
-That visibility becomes increasingly valuable as companies scale.
+That visibility is valuable, especially as companies scale.
 
 ---
 
-### Network & Ecosystem Effects
+### Network & Ecosystem
 
-Kojo appears to be building an operational ecosystem connecting:
+Kojo is building a network:
 
 * contractors
 * suppliers
@@ -642,7 +661,7 @@ Kojo appears to be building an operational ecosystem connecting:
 * warehouses
 * field operations
 
-The larger the ecosystem grows, the stronger the platform becomes.
+So, the larger the ecosystem, the stronger the platform becomes.
 
 ---
 
@@ -658,6 +677,8 @@ Many companies may still rely heavily on:
 * disconnected workflows
 
 Adoption resistance may remain one of the largest barriers.
+
+Some need to see it in action, which means screen time, field visits, & attention in a fast moving industry. 
 
 ---
 
@@ -684,7 +705,7 @@ Kojo must continuously prove:
 
 ### Economic & Construction Market Slowdowns
 
-Construction is heavily affected by:
+Construction is affected by:
 
 * interest rates
 * material pricing
@@ -715,19 +736,17 @@ will likely increase significantly.
 
 ## “We Already Have Systems”
 
-Ironically, existing systems strengthen Kojo’s positioning because the platform integrates into existing workflows instead of forcing replacement.
+Ironically, existing systems strengthen Kojo's approach b/c the platform integrates into existing workflows.
 
-The more fragmented the operational environment becomes, the stronger the argument for centralized coordination becomes.
+The more fragmented the operational environment becomes, the stronger the argument for centralization.
 
 ---
 
 ## “Construction Crews Won’t Adopt It”
 
-Kojo appears highly aware of adoption resistance.
+Kojo addresses adoption resistance through:
 
-The company heavily emphasizes:
-
-* onboarding
+* onboarding (virtual or onsite)
 * field usability
 * mobile workflows
 * dedicated support
@@ -735,15 +754,15 @@ The company heavily emphasizes:
 * training
 * change management
 
-The strategy feels built around reducing operational friction first.
+Reducing friction comes first.
 
 ---
 
 ## “Procurement Is Just Back Office Work”
 
-One of Kojo’s strongest positioning themes is reframing procurement into a competitive operational advantage.
+Kojo turns procurement into competitive advantage,
 
-The platform repeatedly ties procurement efficiency to:
+by tying procurement efficiency to:
 
 * margin improvement
 * scalability
@@ -756,7 +775,7 @@ The platform repeatedly ties procurement efficiency to:
 
 ## “We’re Too Busy To Change”
 
-Construction companies lose enormous time through:
+Construction companies lose enormous time w/:
 
 * manual coordination
 * fragmented communication
@@ -765,15 +784,15 @@ Construction companies lose enormous time through:
 * approval bottlenecks
 * invoice errors
 
-Kojo’s value proposition becomes stronger as operational complexity increases.
+Kojo becomes more useful as operational complexity increases.
 
 ---
 
 # 📈 GTM (Go-To-Market) Strength
 
-Kojo is powerful because different operational groups can become advocates before final purchasing decisions are made.
+Different operational groups can become advocates before leadership conversations even happen.
 
-Different stakeholders see different value:
+Stakeholders see value differently:
 
 * Procurement sees efficiency
 * Field sees usability
@@ -783,16 +802,14 @@ Different stakeholders see different value:
 * Warehouses see inventory visibility
 * Suppliers see faster coordination
 
-This creates strong opportunities for:
+The result:
 
 * internal momentum
 * cross-functional alignment
 * multi-threaded outreach
 * broader organizational buy-in
 
-& honestly?
-
-That may be one of Kojo’s biggest strengths & why it becomes so easy to talk about.
+Which of course, becomes a strength b/c that's a truckload of support.
 
 ---
 
