@@ -193,10 +193,7 @@ Companies managing:
 - prefab operations
 - multi-project purchasing
 
-Built for complex trades who care about material timing, coordination, inventory visibility, & supplier communication.
-
-
-Trades examples include:
+Built for complex trades:
 
 - Electrical
 - Mechanical
