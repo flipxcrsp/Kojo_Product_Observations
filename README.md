@@ -18,6 +18,7 @@ The platform supports:
 * Suppliers & distributors
 * Executive leadership
 
+
 with emphasis on:
 
 * procurement efficiency
@@ -52,6 +53,7 @@ Kojo centralizes:
 
 through one connected workflow.
 
+
 Construction companies already operate across:
 
 * ERPs
@@ -66,6 +68,7 @@ Construction companies already operate across:
 Replacing all of those systems would create operational resistance.
 
 Instead, Kojo integrates into existing workflows & centralizes.
+
 
 The platform handles:
 
@@ -86,6 +89,7 @@ There are many moving parts & Kojo streamlines this process.
 
 Kojo works with systems contractors already use.
 
+
 Integrations include:
 
 * Procore
@@ -99,6 +103,7 @@ Integrations include:
 * Deltek
 * Microsoft tools
 * supplier ERP systems
+
 
 This lowers operational resistance significantly & construction companies don’t want:
 
@@ -123,6 +128,7 @@ That creates a much easier adoption conversation.
 ## Workflow Coordination Instead of Point Solutions
 
 Kojo doesn’t solve one isolated problem.
+
 
 The platform connects:
 - planning
@@ -158,6 +164,7 @@ Leaning into:
 * supplier coordination
 * mobile workflows
 
+
 To provide solutions for:
 
 * fragmented communication
@@ -187,6 +194,7 @@ Companies managing:
 - multi-project purchasing
 
 Built for complex trades who care about material timing, coordination, inventory visibility, & supplier communication.
+
 
 Trades examples include:
 
@@ -335,6 +343,7 @@ Different stakeholders, different benefits:
 * Finance sees margin protection
 * Suppliers see faster coordination
 
+
 Opening the door:
 
 * multi-threaded outreach
@@ -386,6 +395,7 @@ This lowers resistance & contractors don’t need to abandon systems they alread
 
 Kojo takes enterprise security & operational trust seriously.
 
+
 The company emphasizes:
 - SOC 2 compliance
 - encrypted data transmission & storage
@@ -396,6 +406,7 @@ The company emphasizes:
 - ongoing security training
 
 b/c construction companies are not ONLY managing material requests through Kojo.
+
 
 The platform connects operational, financial, supplier, & accounting:
 - invoice accuracy
@@ -412,6 +423,7 @@ all become business-critical.
 
 The field experience is a major part of the platform.
 
+
 Field teams can:
 
 * request materials
@@ -422,6 +434,7 @@ Field teams can:
 * access warehouse inventory
 
 all directly from mobile devices.
+
 
 This reduces:
 
@@ -453,6 +466,7 @@ Most of all, it feels practical.
 
 Kojo doesn’t only support contractors.
 
+
 The supplier integrations:
 
 * streamline communication
@@ -473,6 +487,7 @@ The onboarding & support structure speak to:
 * operational partnership
 * change management
 * workflow adoption
+
 
 Important to addressing:
 
@@ -497,6 +512,7 @@ Not just:
 But:
 
 > “operational partner.”
+
 
 The willingness to:
 
@@ -570,6 +586,7 @@ Purchasing decisions involve:
 * IT
 * ownership groups
 
+
 Creating:
 
 * layered buying committees
@@ -589,6 +606,7 @@ Construction still contains significant:
 * repetitive workflows
 * fragmented communication
 * disconnected systems
+
 
 Kojo’s AI focus on:
 
@@ -693,6 +711,7 @@ Platforms like:
 
 already have strong operational presence.
 
+
 Kojo must continuously prove:
 
 * workflow value
@@ -762,6 +781,7 @@ Reducing friction comes first.
 
 Kojo turns procurement into competitive advantage,
 
+
 by tying procurement efficiency to:
 
 * margin improvement
@@ -792,6 +812,7 @@ Kojo becomes more useful as operational complexity increases.
 
 Different operational groups can become advocates before leadership conversations even happen.
 
+
 Stakeholders see value differently:
 
 * Procurement sees efficiency
@@ -801,6 +822,7 @@ Stakeholders see value differently:
 * Finance sees margin protection
 * Warehouses see inventory visibility
 * Suppliers see faster coordination
+
 
 The result:
 
