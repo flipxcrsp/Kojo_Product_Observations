@@ -53,7 +53,7 @@ Field, Procurement, Warehouse, Accounting, Operations, Prefab, & Suppliers into 
 
 through one connected workflow.
 <br>
-
+<br>
 **Construction companies already operate across:**
 
 * ERPs
