@@ -121,7 +121,7 @@ Less:
 
 > “connect & optimize your existing operation.”
 
-That creates a much easier adoption conversation.
+That creates a much easier conversation.
 
 ---
 
