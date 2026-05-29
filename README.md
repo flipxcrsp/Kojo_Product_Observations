@@ -54,7 +54,6 @@ Field, Procurement, Warehouse, Accounting, Operations, Prefab, & Suppliers into 
 through one connected workflow.
 <br>
 <br>
-<br>
 **Construction companies already operate across:**
 
 * ERPs
@@ -69,7 +68,6 @@ through one connected workflow.
 Replacing all of those systems would create disruption.
 
 Instead, Kojo integrates into existing workflows & centralizes.
-<br>
 <br>
 <br>
 **The platform handles:**
@@ -107,7 +105,7 @@ There are many moving parts & Kojo streamlines this process.
 * supplier ERP systems
 <br>
 <br>
-<br>
+
 **This creates solutions for:**
 
 * downtime
