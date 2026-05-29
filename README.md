@@ -2,7 +2,7 @@
 
 ## 📘 Overview
 
-Kojo is a construction procurement and materials management platform built to connect: 
+Kojo is a construction materials management platform built to connect: 
 
 Field, Procurement, Warehouse, Accounting, Operations, Prefab, & Suppliers into a centralized operational workflow.
 
@@ -105,7 +105,7 @@ Integrations include:
 * supplier ERP systems
 
 
-This lowers operational resistance significantly & construction companies don’t want:
+This creates solutions for:
 
 * downtime
 * workflow disruption
@@ -165,7 +165,7 @@ Leaning into:
 * mobile workflows
 
 
-To provide solutions for:
+Providing solutions for:
 
 * fragmented communication
 * operational delays
@@ -174,7 +174,7 @@ To provide solutions for:
 * disconnected systems
 * adoption resistance
 
-This reduces operational delays where operational speed & timing = Reputation.
+This reduces operational delays where speed & timing = Reputation.
 
 ---
 
