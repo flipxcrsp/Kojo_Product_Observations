@@ -328,7 +328,7 @@ Kojo creates value on both sides of the procurement relationship.
 
 # 🧠 Buying Motion Observation
 
-## Kojo creates multiple internal advocates before reaching a final decision maker.
+### Kojo creates multiple internal advocates before reaching a final decision maker.
 
 **Different stakeholders, different benefits:**
 
