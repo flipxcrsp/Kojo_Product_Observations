@@ -31,9 +31,9 @@ Field, Procurement, Warehouse, Accounting, Operations, Prefab, & Suppliers into 
 * automation
 * scalability
 
-> **Kojo is non-invasive connective operational infrastructure.**
+**Kojo is non-invasive connective operational infrastructure.**
 
-Kojo connects systems contractors already use instead of replacing them.
+-# Kojo connects systems contractors already use instead of replacing them.
 
 ---
 
