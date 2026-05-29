@@ -837,11 +837,11 @@ Which of course, becomes a strength b/c that's a truckload of support.
 **Write-up based on:**
 
 * Publicly available Kojo materials [https://www.usekojo.com/](https://www.usekojo.com/)
-* Customer stories & testimonials
-* Product webinars & operational workflow breakdowns
-* Security & onboarding materials
-* Public integrations & workflow documentation
-* Personal observations while researching the platform
+* Customer stories & testimonials [https://www.usekojo.com/customer-stories/](https://www.usekojo.com/customer-stories/)
+* Product webinars & operational workflow breakdowns [https://www.usekojo.com/webinars](https://www.usekojo.com/webinars)
+* Security & onboarding materials [https://www.usekojo.com/security](https://www.usekojo.com/security)
+* Public integrations & workflow documentation [https://www.usekojo.com/integrations](https://www.usekojo.com/integrations)
+* Personal observations while researching the platform & youtube.com  [https://youtu.be/8gE_bSiQang?si=uZyhCSI8KaMeVQtH](Alterman & Kojo)
 
 as an **independent** product analysis.
 
