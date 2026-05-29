@@ -104,7 +104,6 @@ Replacing all of those systems would create disruption.
 * Microsoft tools
 * supplier ERP systems
 <br>
-<br>
 
 **This creates solutions for:**
 
@@ -841,7 +840,8 @@ Different operational groups can become advocates before leadership conversation
 * Product webinars & operational workflow breakdowns [https://www.usekojo.com/webinars](https://www.usekojo.com/webinars)
 * Security & onboarding materials [https://www.usekojo.com/security](https://www.usekojo.com/security)
 * Public integrations & workflow documentation [https://www.usekojo.com/integrations](https://www.usekojo.com/integrations)
-* Personal observations & YouTube
+* Personal observations, Reddit, & YouTube reviews
+* [McKinsey: Building Materials - Understanding the Keys to Outperformance](https://www.mckinsey.com/industries/engineering-construction-and-building-materials/our-insights/building-materials-understanding-the-keys-to-outperformance#/)
 
 as an **independent** product analysis.
 
