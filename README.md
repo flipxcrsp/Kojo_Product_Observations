@@ -69,8 +69,9 @@ through one connected workflow.
 Replacing all of those systems would create disruption.
 
 Instead, Kojo integrates into existing workflows & centralizes.
-
-
+<br>
+<br>
+<br>
 **The platform handles:**
 
 * ERP integrations
@@ -104,8 +105,9 @@ There are many moving parts & Kojo streamlines this process.
 * Deltek
 * Microsoft tools
 * supplier ERP systems
-
-
+<br>
+<br>
+<br>
 **This creates solutions for:**
 
 * downtime
@@ -114,11 +116,11 @@ There are many moving parts & Kojo streamlines this process.
 * disconnected systems
 * implementation headaches
 
-Less:
+**Less:**
 
 > “replace your stack”
 
-& more:
+**More:**
 
 > “connect & optimize your existing operation.”
 
@@ -153,7 +155,7 @@ Operational coordination instead of isolated transactions.
 
 ## Construction-Centric Design
 
-> Kojo is obviously built for construction.
+### Kojo is obviously built for construction.
 
 **Leaning into:**
 
