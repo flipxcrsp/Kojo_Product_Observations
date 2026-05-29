@@ -65,7 +65,7 @@ Construction companies already operate across:
 * paper requests
 * fragmented workflows
 
-Replacing all of those systems would create operational resistance.
+Replacing all of those systems would create disruption.
 
 Instead, Kojo integrates into existing workflows & centralizes.
 
