@@ -2,11 +2,11 @@
 
 ## 📘 Overview
 
-Kojo is a construction materials management platform built to connect: 
+### Kojo is the construction industry's leading materials procurement platform, powered by AI:
 
 Field, Procurement, Warehouse, Accounting, Operations, Prefab, & Suppliers into a centralized operational workflow.
 
-The platform supports:
+**The platform supports:**
 
 * Contractors
 * Procurement teams
@@ -19,7 +19,7 @@ The platform supports:
 * Executive leadership
 
 
-with emphasis on:
+**with emphasis on:**
 
 * procurement efficiency
 * operational visibility
@@ -31,7 +31,7 @@ with emphasis on:
 * automation
 * scalability
 
-> Kojo is non-invasive connective operational infrastructure.
+> **Kojo is non-invasive connective operational infrastructure.**
 
 Kojo connects systems contractors already use instead of replacing them.
 
