@@ -81,7 +81,7 @@ Replacing all of those systems would create disruption.
 * workflow standardization
 * operational scalability
 
-There are many moving parts & Kojo streamlines this process.
+*There are many moving parts & Kojo helps streamline them.*
 
 ---
 
