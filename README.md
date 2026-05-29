@@ -33,7 +33,7 @@ with emphasis on:
 
 > Kojo is non-invasive connective operational infrastructure.
 
-Kojo connects systems contractors already use instead of forcing them to start over.
+Kojo connects systems contractors already use instead of replacing them.
 
 ---
 
