@@ -52,7 +52,7 @@ Field, Procurement, Warehouse, Accounting, Operations, Prefab, & Suppliers into 
 * project leadership
 
 through one connected workflow.
-
+<br>
 
 **Construction companies already operate across:**
 
