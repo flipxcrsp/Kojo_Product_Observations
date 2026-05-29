@@ -152,7 +152,7 @@ Operational coordination instead of isolated transactions.
 
 ## Construction-Centric Design
 
-> Kojo is clearly built for construction.
+> Kojo is obviously built for construction.
 
 Leaning into:
 
@@ -752,7 +752,7 @@ will likely increase significantly.
 
 ## “We Already Have Systems”
 
-Ironically, existing systems strengthen Kojo's approach b/c the platform integrates into existing workflows.
+Fantastic, existing systems strengthen Kojo's approach b/c the platform integrates into existing workflows.
 
 The more fragmented the operational environment becomes, the stronger the argument for centralization.
 
