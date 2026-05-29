@@ -67,7 +67,7 @@ through one connected workflow.
 
 Replacing all of those systems would create disruption.
 
-Instead, Kojo integrates into existing workflows & centralizes.
+*Instead, Kojo integrates into existing workflows & centralizes.*
 <br>
 <br>
 **The platform handles:**
@@ -351,7 +351,7 @@ Kojo creates value on both sides of the procurement relationship.
 
 B/c going directly to a decision-maker in construction may not always be the easiest or effective route.
 
-The platform naturally gains advocates throughout operations first, allowing momentum to build internally before leadership conversations.
+*The platform naturally gains advocates throughout operations first, allowing momentum to build internally before leadership conversations.*
 
 ---
 
@@ -495,7 +495,7 @@ This creates stronger network where everybody wins.
 
 Kojo directly addresses this through offering vitrual & onsite onboarding.
 
-Not to mention webinars & a ton of resources on their site. 
+*Not to mention webinars & a ton of resources on their site.* 
 
 ---
 
@@ -523,7 +523,7 @@ A recurring theme throughout customer stories is partnership.
 
 creates stronger long-term adoption potential.
 
-It's nice to witness a company focused on the growth of their clients.
+*It's nice to witness a company focused on the growth of their clients.*
 
 ---
 
@@ -631,9 +631,8 @@ Material shortages, tariffs, delays, & price volatility create massive operation
 
 even more valuable during supply chain instability.
 
-If you tried to buy new construction during 2020, need I say more?
+*If you tried buying new construction during 2020, need I say more?*
 
-I'm sorry for bringing that up (I feel you).
 
 ---
 
@@ -777,7 +776,7 @@ Reducing friction comes first.
 
 ## “Procurement Is Just Back Office Work”
 
-Kojo turns procurement into competitive advantage,
+Kojo turns procurement into competitive leverage,
 
 
 **by tying procurement efficiency to:**
@@ -829,7 +828,7 @@ Different operational groups can become advocates before leadership conversation
 * multi-threaded outreach
 * broader organizational buy-in
 
-Which of course, becomes a strength b/c that's a truckload of support.
+**Which of course, becomes a strength b/c that's a truckload of support.**
 
 ---
 
